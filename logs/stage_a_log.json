@@ -1,0 +1,382 @@
+[
+  {
+    "step": 200,
+    "epoch": 1,
+    "train_loss": 1.7150598764419556,
+    "val_loss": 1.467502655654118,
+    "val_ppl": 4.338387154491256,
+    "lr": 0.0002
+  },
+  {
+    "step": 400,
+    "epoch": 1,
+    "train_loss": 1.5578097105026245,
+    "val_loss": 1.3667499530932,
+    "val_ppl": 3.922581382788056,
+    "lr": 0.00019958145180835098
+  },
+  {
+    "step": 600,
+    "epoch": 1,
+    "train_loss": 0.8719724416732788,
+    "val_loss": 1.3406231783587357,
+    "val_ppl": 3.821424192349208,
+    "lr": 0.0001983293108851785
+  },
+  {
+    "step": 800,
+    "epoch": 1,
+    "train_loss": 1.6079957485198975,
+    "val_loss": 1.3276682259707615,
+    "val_ppl": 3.7722371198974467,
+    "lr": 0.00019625405885686435
+  },
+  {
+    "step": 1000,
+    "epoch": 1,
+    "train_loss": 1.4860790967941284,
+    "val_loss": 1.3188705891370773,
+    "val_ppl": 3.7391959030902586,
+    "lr": 0.00019337306758308173
+  },
+  {
+    "step": 1200,
+    "epoch": 1,
+    "train_loss": 1.6767390966415405,
+    "val_loss": 1.3128840995245967,
+    "val_ppl": 3.716878114913069,
+    "lr": 0.00018971045373758673
+  },
+  {
+    "step": 1400,
+    "epoch": 1,
+    "train_loss": 1.2444605827331543,
+    "val_loss": 1.3083760502009556,
+    "val_ppl": 3.700159956495353,
+    "lr": 0.00018529687692841405
+  },
+  {
+    "step": 200,
+    "epoch": 1,
+    "train_loss": 5.535771369934082,
+    "val_loss": 5.19092267957227,
+    "val_ppl": 179.63422131715163,
+    "lr": 0.0002,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\n Response Response Response response is the capital of the country, the capital of France. The capital of the country is the capital of France, although the administrative centre is the capital of the country, the capital"
+  },
+  {
+    "step": 400,
+    "epoch": 1,
+    "train_loss": 5.239341735839844,
+    "val_loss": 4.89637344870074,
+    "val_ppl": 133.80365292454874,
+    "lr": 0.00019958145180835098,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital is the capital of the Province of Genoa, the capital of the province of Genoa. The capital is also referred to as the capital of the Province of Genoa, the capital of"
+  },
+  {
+    "step": 600,
+    "epoch": 1,
+    "train_loss": 3.744020938873291,
+    "val_loss": 4.790821198759408,
+    "val_ppl": 120.40020057268345,
+    "lr": 0.0001983293108851785,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital city of France is Montm\u00e9zy, where the capital of France is located. The capital city of France is Paris. The capital of France is S\u00e9l\u00e9vins, which is"
+  },
+  {
+    "step": 800,
+    "epoch": 1,
+    "train_loss": 5.566483497619629,
+    "val_loss": 4.7328026972968,
+    "val_ppl": 113.6135409056686,
+    "lr": 0.00019625405885686435,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Rochambeau, with the capital of Rochambeau. As of 2013, Rochambeau is the tallest and most populous city in Europe."
+  },
+  {
+    "step": 1000,
+    "epoch": 1,
+    "train_loss": 5.111577033996582,
+    "val_loss": 4.685798599802214,
+    "val_ppl": 108.39680341749143,
+    "lr": 0.00019337306758308173,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of the country was La Rochefort. In order to make the capital more appealing to its neighbours, the French authorities had to have a permanent permanent capital in La Rochefort. The French also"
+  },
+  {
+    "step": 1200,
+    "epoch": 1,
+    "train_loss": 4.568264961242676,
+    "val_loss": 4.65759977184493,
+    "val_ppl": 105.38283550452955,
+    "lr": 0.00018971045373758673,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France is Paris. In 1833, the capital of France was moved to Paris. The capital was moved to Paris. The capital was moved to Paris"
+  },
+  {
+    "step": 1400,
+    "epoch": 1,
+    "train_loss": 4.811840057373047,
+    "val_loss": 4.6308636583130935,
+    "val_ppl": 102.60263947809204,
+    "lr": 0.00018529687692841405,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nRavaard, which is located in the northeast of Saumur, was the seat of the president of the French Republic from 1851 to 1852. In the 1830s, it was the"
+  },
+  {
+    "step": 1600,
+    "epoch": 2,
+    "train_loss": 4.740218162536621,
+    "val_loss": 4.608343319646243,
+    "val_ppl": 100.31781733759144,
+    "lr": 0.00018016928304740741,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France is Paris. The capital of France is Paris. The capital of France is Paris. The capital of France is Paris. The capital is Paris."
+  },
+  {
+    "step": 1800,
+    "epoch": 2,
+    "train_loss": 4.342525005340576,
+    "val_loss": 4.588497061153938,
+    "val_ppl": 98.34651024187598,
+    "lr": 0.00017437059499749498,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris, a city that is located at the top of the Rhineland. The capital is the capital of a small state, with its seat in Paris. The capital serves"
+  },
+  {
+    "step": 2000,
+    "epoch": 2,
+    "train_loss": 4.647643566131592,
+    "val_loss": 4.572183822763377,
+    "val_ppl": 96.75517537849126,
+    "lr": 0.0001679493533866212,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nI cannot make sure that my heart is full. I have to tell you that you are not ready to go to the French Republic. I don\ufffdt have a deal for you to go to Paris"
+  },
+  {
+    "step": 2200,
+    "epoch": 2,
+    "train_loss": 4.831482887268066,
+    "val_loss": 4.55787677600466,
+    "val_ppl": 95.38074998872503,
+    "lr": 0.00016095931019607368,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital is Paris. The capital is Laubourgse, with 4,11 million residents and the capital is Laubourgse. At the time"
+  },
+  {
+    "step": 2400,
+    "epoch": 2,
+    "train_loss": 4.464114665985107,
+    "val_loss": 4.545086513305533,
+    "val_ppl": 94.16857369159953,
+    "lr": 0.0001534589788245913,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is La Roche de Paris, the capital of France. The capital of France is La Roche. The capital of France is La Roche, the capital of France which is located in the"
+  },
+  {
+    "step": 2600,
+    "epoch": 2,
+    "train_loss": 4.337586879730225,
+    "val_loss": 4.534034780387221,
+    "val_ppl": 93.13357755090415,
+    "lr": 0.0001455111442748202,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. It is located on the border between France and Spain, which is the highest point in France. The capital is Paris. The city is located on the borders of England"
+  },
+  {
+    "step": 2800,
+    "epoch": 2,
+    "train_loss": 4.149111747741699,
+    "val_loss": 4.524149993370319,
+    "val_ppl": 92.21750701278917,
+    "lr": 0.00013718233758232704,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is the Place de la Merle-estre. It is located near the city, and is located at the confluence of the River Vaubois and the River Maury"
+  },
+  {
+    "step": 3000,
+    "epoch": 3,
+    "train_loss": 4.490805149078369,
+    "val_loss": 4.513166797572169,
+    "val_ppl": 91.21020589587151,
+    "lr": 0.00012854227888670652,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Lille. The capital of France consists of 18 cities. The capital of France is Antwerp. The capital of France is Lille. The capital of France is St"
+  },
+  {
+    "step": 3200,
+    "epoch": 3,
+    "train_loss": 4.0736985206604,
+    "val_loss": 4.50564699954,
+    "val_ppl": 90.52689596534226,
+    "lr": 0.00011966329380681454,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. St. R\u00e9union and St. R\u00e9union are the seat of the French state of Aquile. The city is a large multi-born city in the Gulf of"
+  },
+  {
+    "step": 3400,
+    "epoch": 3,
+    "train_loss": 4.4363250732421875,
+    "val_loss": 4.497795824346872,
+    "val_ppl": 89.81893623995069,
+    "lr": 0.00011061970800562844,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of the state of France is Paris. It is located in the south of France and is the capital of the French Republic. It is the capital of France, and is the capital of France"
+  },
+  {
+    "step": 3600,
+    "epoch": 3,
+    "train_loss": 4.189915180206299,
+    "val_loss": 4.490841388702393,
+    "val_ppl": 89.19646321130432,
+    "lr": 0.00010148722501281043,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Montr\u00e9al, a small town located in the region of Mont Blanc. The capital is located near the river Rh\u00f4ne, with the capital also located at the foot of"
+  },
+  {
+    "step": 3800,
+    "epoch": 3,
+    "train_loss": 5.1204657554626465,
+    "val_loss": 4.484339025513879,
+    "val_ppl": 88.61835697761461,
+    "lr": 9.234229251319864e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France is Paris. The capital of the United Kingdom is Paris. The capital of England is Paris. The capital is Paris. The capital is Paris."
+  },
+  {
+    "step": 4000,
+    "epoch": 3,
+    "train_loss": 4.780277729034424,
+    "val_loss": 4.479763664048294,
+    "val_ppl": 88.21382211427688,
+    "lr": 8.326146240600245e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France is Paris, the capital of France, which is the capital of France. Both Paris and Paris are the capital of France. The capital of France"
+  },
+  {
+    "step": 4200,
+    "epoch": 3,
+    "train_loss": 4.5072174072265625,
+    "val_loss": 4.473356832718027,
+    "val_ppl": 87.65045765259094,
+    "lr": 7.432074999162258e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of the French language is Paris. It is a city with a population of approximately 3.5 million people. In England, it is the third largest city in the United Kingdom and is a"
+  },
+  {
+    "step": 4400,
+    "epoch": 4,
+    "train_loss": 5.271065711975098,
+    "val_loss": 4.470599410862758,
+    "val_ppl": 87.4091012786325,
+    "lr": 6.559499765032091e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France is Rochambeau, where it is home to most of the state capital. It is the capital of the English Republic, with the"
+  },
+  {
+    "step": 4600,
+    "epoch": 4,
+    "train_loss": 4.63080358505249,
+    "val_loss": 4.467191063124558,
+    "val_ppl": 87.11168779818992,
+    "lr": 5.715724833936199e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of the French Republic is Paris. It is the capital of the French Republic. It is located on the Atlantic Ocean and is bordered by the Atlantic Ocean to the south, the Atlantic Ocean"
+  },
+  {
+    "step": 4800,
+    "epoch": 4,
+    "train_loss": 4.815526962280273,
+    "val_loss": 4.463417386186534,
+    "val_ppl": 86.7835759144148,
+    "lr": 4.9078134153059694e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France is Paris. There are several cities that are also located in France. Paris, Bordeaux, Paris, Trivand and Paris are also"
+  },
+  {
+    "step": 5000,
+    "epoch": 4,
+    "train_loss": 3.553605556488037,
+    "val_loss": 4.460398634959912,
+    "val_ppl": 86.52199291382183,
+    "lr": 4.142528506406998e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. It is located in southern France, across the Seine River, and has a population of 1,2,000,2. The capital of France is Paris."
+  },
+  {
+    "step": 5200,
+    "epoch": 4,
+    "train_loss": 5.172451496124268,
+    "val_loss": 4.458369154354622,
+    "val_ppl": 86.34657626981932,
+    "lr": 3.4262762795336144e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. It is located in the heart of the heart, the largest city in Europe. It is the largest city in France, with 611 residents in 2014. Paris is"
+  },
+  {
+    "step": 5400,
+    "epoch": 4,
+    "train_loss": 4.840339660644531,
+    "val_loss": 4.454555172344734,
+    "val_ppl": 86.01787920211041,
+    "lr": 2.765052456172258e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Brest, which is a regional capital of France. It is located in the north of France. It is located in the Central Midlands of France, south of the Douve"
+  },
+  {
+    "step": 5600,
+    "epoch": 4,
+    "train_loss": 4.356556415557861,
+    "val_loss": 4.4542390395855085,
+    "val_ppl": 85.99069043047264,
+    "lr": 2.164392117033799e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. It is located in Paris, France and is about two and a half miles below Paris. The capital of France, Paris, is located in the heart of Paris,"
+  },
+  {
+    "step": 5800,
+    "epoch": 4,
+    "train_loss": 4.633228302001953,
+    "val_loss": 4.451818945079014,
+    "val_ppl": 85.78283644754093,
+    "lr": 1.6293233680930652e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France had a population of approximately 15,000 people aged between 15 and 25 years. Paris is located on the south-work of the Loire River"
+  },
+  {
+    "step": 6000,
+    "epoch": 5,
+    "train_loss": 4.576084613800049,
+    "val_loss": 4.451905622564513,
+    "val_ppl": 85.79027221035508,
+    "lr": 1.1643252504956036e-05,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital of France is Paris. The capital of France is Paris. The capital of France is Paris. The capital of France is Paris. The capital is Paris."
+  },
+  {
+    "step": 6200,
+    "epoch": 5,
+    "train_loss": 4.210858345031738,
+    "val_loss": 4.451481716386203,
+    "val_ppl": 85.75391289094078,
+    "lr": 7.732902466662217e-06,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris, the capital city of France. It is a major city of the French state of Maine and is the administrative capital of France. It belongs to the French region of Northern"
+  },
+  {
+    "step": 6400,
+    "epoch": 5,
+    "train_loss": 4.488995552062988,
+    "val_loss": 4.450416795138655,
+    "val_ppl": 85.66264033471076,
+    "lr": 4.594916964794093e-06,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nIt is a municipality in southern France and is located in the south of France. The capital of the municipality is Paris, France. It is located at the junction of the Augereau river, the"
+  },
+  {
+    "step": 6600,
+    "epoch": 5,
+    "train_loss": 4.725953578948975,
+    "val_loss": 4.450028768901167,
+    "val_ppl": 85.62940743072473,
+    "lr": 2.2555639624961766e-06,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. The capital is Paris. The capital is Laubach, on the island of Saintes, where it is located. There is an estimated 4,100 square kilometres"
+  },
+  {
+    "step": 6800,
+    "epoch": 5,
+    "train_loss": 4.353363037109375,
+    "val_loss": 4.4499498646834805,
+    "val_ppl": 85.62265117587243,
+    "lr": 7.344260991433038e-07,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is the Seigneur de France. It is located on the western half of the island of La Rochere-@ sur @-@ Mer, which belongs to the French Republic"
+  },
+  {
+    "step": 7000,
+    "epoch": 5,
+    "train_loss": 4.2378621101379395,
+    "val_loss": 4.449926263299481,
+    "val_ppl": 85.62063038664981,
+    "lr": 4.4236764774574505e-08,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is Paris. It is located at the end of the French border in Paris. The capital is Le Touquet. It has a population of over 100,61 people, much of"
+  },
+  {
+    "step": 7200,
+    "epoch": 5,
+    "train_loss": 4.0338969230651855,
+    "val_loss": 4.449926331125456,
+    "val_ppl": 85.62063619395275,
+    "lr": 0.0,
+    "sample_output": "### Instruction:\nWhat is the capital of France?\n\n### Response:\nThe capital of France is the Palais de Nantes. It is located on the east end of Lake Couvron. It is also the seat of Franceus, Franceus, the royal capital"
+  }
+]
