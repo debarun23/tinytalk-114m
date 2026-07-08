@@ -1,4 +1,3 @@
-```markdown
 # TinyTalk-124M
 
 ### A Conversational Language Model Built Entirely From Scratch
@@ -190,7 +189,3 @@ Pretrained and fine-tuned checkpoints are available on Hugging Face:
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-```
-
----
-
