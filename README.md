@@ -27,7 +27,7 @@ The goal was to design and train a language model end-to-end — architecture, p
 ## Architecture
 
 <p align="center">
-  <img src="assets/ScratchLM-95M_architecture.png" alt="ScratchLM-95M Architecture" width="850"/>
+  <img src="assets/base_model_architecture.png" alt="ScratchLM-95M Architecture" width="850"/>
 </p>
 
 **ScratchLM-95M** is a 12-layer, decoder-only transformer using:
