@@ -24,6 +24,7 @@ The goal was to design and train a language model end-to-end — architecture, p
 
 ---
 
+
 ## Architecture
 
 <p align="center">
